@@ -10,7 +10,7 @@
 			<div class="blog-news-grid">
 				<div class="news-grid-left">
 					<h4>06</h4>
-					<small>of january 2015</small>
+					<small>Of january 2015</small>
 				</div>
 				<div class="news-grid-right">
 					<h4>Claritas est etiam processus</h4>
